@@ -1,0 +1,9 @@
+### Python ###
+# Byte-compiled / optimized / DLL / Compressed / dataset files 
+__pycache__/
+*.py[cod]
+*$py.class
+*.jpg
+animals/
+*.ipynb_checkpoints
+*.zip
